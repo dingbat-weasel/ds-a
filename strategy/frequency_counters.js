@@ -116,4 +116,4 @@ function validAnagram2(str1, str2) {
   return true;
 }
 
-validAnagram2('cat', 'tac');
+console.log(validAnagram2('cat', 'tac'));
